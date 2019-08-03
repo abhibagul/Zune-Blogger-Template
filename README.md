@@ -33,7 +33,7 @@ Summery</h3>
 <div class="separator" style="clear: both; text-align: center;">
 <img src="https://3.bp.blogspot.com/-fPVO2wmYRV4/WgaL340EgiI/AAAAAAAAA_o/NFWMbN7S5woWMrLUhHXay5QY-9rh7Kk6gCLcBGAs/s1600/upload1-min.png" data-original-width="1245" data-original-height="634" border="0"></div>
 </li>
-<li>Now click on the browse button and select the extracted template file,<code>News Paper Blogger Template.xml</code>.</li>
+<li>Now click on the browse button and select the extracted template file,<code>Zune Blogger Template.xml</code>.</li>
 <li>Now click on the <code>upload</code> button.
 <div class="separator" style="clear: both; text-align: center;">
 <img src="https://4.bp.blogspot.com/-Q-XFO_LT9cs/WgaL4TY9zsI/AAAAAAAAA_s/UwTV_fQBjpczwJE8-bl1yhpas2lREn2mwCLcBGAs/s1600/upload2-min.png" data-original-width="599" data-original-height="343" border="0"></div>
