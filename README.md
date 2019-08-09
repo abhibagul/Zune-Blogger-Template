@@ -2,6 +2,8 @@
 Zune is a modern, user-friendly and professional blogger template. It is clean and modern design for blogger users. It comes with several handy features that are both good to run a successful magazine blog, news blog or etc. It has several popular built-in widgets that means you don't have to install any external widget by yourself.
 
 
+<h3>Customized blogger Template @ $25 : <a href="https://www.fiverr.com/s2/ceb7759ae8" target="_blank">https://www.fiverr.com/s2/ceb7759ae8</a></h3>
+
 <h2>Documentation</h2>
 <div class="entry-content">
 
