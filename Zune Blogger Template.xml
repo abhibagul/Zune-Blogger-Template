@@ -19,8 +19,7 @@
 	<meta content='true' name='HandheldFriendly'/>
 	<meta content='yes' name='apple-mobile-web-app-capable'/>
 	<meta content='index,nofollow' name='robots'/>
-	<meta expr:content='data:blog.isMobile         ? &quot;width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0&quot;         : &quot;width=1100&quot;' name='viewport'/>
-
+	<meta content='width=device-width, initial-scale=1.0, user-scalable=yes' name='viewport'/>
 	<!-- Blogger main head data and meta -->
     <b:include data='blog' name='all-head-content'/>
 <script type='application/ld+json'>{ &quot;@context&quot;: &quot;http://schema.org&quot;, &quot;@type&quot;: &quot;WebSite&quot;, &quot;url&quot;: &quot;<data:blog.homepageUrl/>&quot;, &quot;potentialAction&quot;: { &quot;@type&quot;: &quot;SearchAction&quot;, &quot;target&quot;: &quot;<data:blog.homepageUrl/>?q={search_term}&quot;, &quot;query-input&quot;: &quot;required name=search_term&quot; } }</script>
